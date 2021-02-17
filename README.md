@@ -1,20 +1,9 @@
 # DasenMakerProject
 
-## Build Setup
+https://dasen.me/
 
-```bash
-# install dependencies
-$ yarn install
+オンライン開発イベントweb1weekに出した作品。
+開発期間: 半日
+記事: https://crieit.net/boards/web1week-202009/1dd1b99ee139f324c20408ce24eecec0
 
-# serve with hot reload at localhost:3000
-$ yarn dev
 
-# build for production and launch server
-$ yarn build
-$ yarn start
-
-# generate static project
-$ yarn generate
-```
-
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
